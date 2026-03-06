@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="pirate|template_unit_ship_warship_arrow">
+  <Identity>
+    <GenericName>Pirate Galley</GenericName>
+    <SpecificName>Pirate Galley</SpecificName>
+    <Icon>units/rome/ship_arrow.png</Icon>
+    <Classes datatype="tokens">Pirate Ship Warship</Classes>
+    <VisibleClasses datatype="tokens">Ship</VisibleClasses>
+  </Identity>
+
+  <UnitAI>
+    <DefaultStance>violent</DefaultStance>
+  </UnitAI>
+
+  <!-- REQUIRED by the validator in your build -->
+  <!-- Copy this from an existing ship template that works in your version -->
+  <VisualActor>
+    <Actor>structures/romans/trireme.xml</Actor>
+  </VisualActor>
+
+  <Health>
+    <Max>900</Max>
+  </Health>
+
+  <UnitMotion>
+    <WalkSpeed>12.0</WalkSpeed>
+  </UnitMotion>
+
+  <Cost>
+    <BuildTime>0</BuildTime>
+    <Resources>
+      <food>0</food>
+      <wood>0</wood>
+      <stone>0</stone>
+      <metal>0</metal>
+    </Resources>
+  </Cost>
+
+</Entity>

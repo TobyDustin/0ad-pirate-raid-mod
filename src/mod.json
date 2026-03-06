@@ -1,0 +1,9 @@
+{
+	"name": "pirate_raids",
+	"label": "Pirate Raids",
+	"version": "0.1",
+	"url": "http://tobydustin.com",
+	"description": "Adds roaming pirate ships that hunt merchant vessels and raid trade.",
+	"dependencies": ["0ad"]
+  }
+  
