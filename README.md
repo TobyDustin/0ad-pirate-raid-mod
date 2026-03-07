@@ -1,4 +1,6 @@
 # pirate_raids
+<img width="1152" height="768" alt="pirate-raids" src="https://github.com/user-attachments/assets/8c935153-e2aa-4e67-942a-ad713aa8ae98" />
+
 
 A mod for [0 A.D.](https://play0ad.com/) that adds roaming Gaia pirate ships that hunt merchant vessels on the water.
 
