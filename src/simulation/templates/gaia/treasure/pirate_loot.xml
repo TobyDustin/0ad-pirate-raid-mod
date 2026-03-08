@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia_treasure">
+  <Treasure>
+    <CollectTime>2000</CollectTime>
+    <Resources>
+      <food>0</food>
+      <wood>30</wood>
+      <stone>0</stone>
+      <metal>50</metal>
+    </Resources>
+  </Treasure>
+  <Position>
+    <Floating>true</Floating>
+  </Position>
+  <Footprint>
+    <Circle radius="2.0"/>
+  </Footprint>
+  <VisualActor>
+    <Actor>props/special/eyecandy/barrel_a.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -20,6 +20,7 @@
 
   <Health>
     <Max>900</Max>
+    <SpawnEntityOnDeath>gaia/treasure/pirate_loot</SpawnEntityOnDeath>
   </Health>
 
   <UnitMotion>
